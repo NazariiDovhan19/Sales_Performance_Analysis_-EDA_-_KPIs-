@@ -1,0 +1,31 @@
+order_id,order_date,product,category,region,quantity,price
+1001,2023-01-05,Laptop Pro,Electronics,London,1,1200
+1002,2023-01-06,Wireless Mouse,Accessories,London,2,25
+1003,2023-01-10,Office Chair,Furniture,Manchester,1,180
+1004,2023-01-15,Monitor 27,Electronics,Birmingham,2,320
+1005,2023-02-02,Laptop Pro,Electronics,London,1,1200
+1006,2023-02-05,Keyboard Mechanical,Accessories,Leeds,1,95
+1007,2023-02-11,Desk,Furniture,Manchester,1,250
+1008,2023-02-18,Monitor 27,Electronics,London,1,320
+1009,2023-03-03,Wireless Mouse,Accessories,Leeds,3,25
+1010,2023-03-06,Laptop Air,Electronics,Birmingham,1,900
+1011,2023-03-12,Office Chair,Furniture,London,2,180
+1012,2023-03-20,Monitor 27,Electronics,Manchester,1,320
+1013,2023-04-01,Laptop Pro,Electronics,London,1,1200
+1014,2023-04-05,Desk,Furniture,Birmingham,2,250
+1015,2023-04-11,Keyboard Mechanical,Accessories,London,1,95
+1016,2023-04-18,Laptop Air,Electronics,Leeds,1,900
+1017,2023-05-02,Wireless Mouse,Accessories,Manchester,4,25
+1018,2023-05-07,Office Chair,Furniture,London,1,180
+1019,2023-05-15,Monitor 27,Electronics,Birmingham,2,320
+1020,2023-06-01,Laptop Pro,Electronics,London,1,1200
+1021,2023-06-06,Desk,Furniture,Leeds,1,250
+1022,2023-06-12,Keyboard Mechanical,Accessories,Manchester,2,95
+1023,2023-06-20,Laptop Air,Electronics,London,1,900
+1024,2023-07-03,Wireless Mouse,Accessories,London,3,25
+1025,2023-07-07,Office Chair,Furniture,Manchester,1,180
+1026,2023-07-15,Monitor 27,Electronics,Leeds,2,320
+1027,2023-08-02,Laptop Pro,Electronics,Birmingham,1,1200
+1028,2023-08-06,Desk,Furniture,London,1,250
+1029,2023-08-12,Keyboard Mechanical,Accessories,Leeds,1,95
+1030,2023-08-20,Laptop Air,Electronics,Manchester,1,900
